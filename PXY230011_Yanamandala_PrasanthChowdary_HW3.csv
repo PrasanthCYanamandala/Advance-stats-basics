@@ -1,0 +1,22 @@
+NAME,Prasanth Chowdary Yanamandala,
+NETID,PXY230011,
+Problem 1 
+The Mean of the sample,155.2778,
+Standard Deviation is,19.72035,
+Sx-Bar is,3.286724,
+Upper cut-off point is,157.6974,
+Lower cut-off point is,142.3026,
+P-Value is,0.117307,
+Decision,We Fail to reject Null Hypothesis,
+Problem 2 
+The Mean of Dallas city,55.89817,
+The Mean of Pittsburgh city,46.53275,
+The Mean of Boston city,53.62895,
+The Mean of Seattle city,54.70069,
+P-Value is,0.0244,
+Decision,We reject the Null Hypothesis,
+Problem 3 
+The Skewness Before Log Transformation ,13.1502,
+The Skewness After Log Transformation with base e,0.001358984,
+The Skewness After Log Transformation with base 10,0.001358984,
+Similar:,Yes,
