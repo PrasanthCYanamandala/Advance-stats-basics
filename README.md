@@ -1,6 +1,6 @@
-# Statistical Analysis Projects – Course 6359 (Fall 2023)
+# Statistical Analysis Projects (Fall 2023)
 
-This repository contains a series of statistical analysis projects completed as part of the coursework for STAT 6359 at UT Dallas during Fall 2023. Each project is implemented in R and covers a range of fundamental statistical concepts and data analysis techniques.
+This repository contains a series of statistical analysis projects completed as part of the coursework for UT Dallas during Fall 2023. Each project is implemented in R and covers a range of fundamental statistical concepts and data analysis techniques.
 
 The assignments span hypothesis testing, data transformation, regression modeling, and visual interpretation of data. All analyses were performed using datasets provided in Excel or CSV format, with outputs generated in R and exported as CSV files where required.
 
